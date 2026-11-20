@@ -1,0 +1,7 @@
+scenario,method,avg_waiting_time,avg_queue_length,throughput,total_delay,vehicles_in_queue_at_end,vehicles_lost,switch_count
+low,Fixed,8.83,0.8,54,477,0,0,18
+low,Adaptive,3.98,0.36,54,215,0,0,23
+medium,Fixed,11.5,3.05,159,1828,0,0,18
+medium,Adaptive,6.08,1.61,156,966,3,0,41
+high,Fixed,14.73,7.71,306,4624,8,0,18
+high,Adaptive,8.09,4.23,310,2540,4,0,40
